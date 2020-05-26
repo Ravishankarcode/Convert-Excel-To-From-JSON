@@ -1,0 +1,32 @@
+[
+   {
+      "id":"1",
+      "name":"Ravishankar Kumar",
+      "address":"Bangalore",
+      "age":32
+   },
+   {
+      "id":"2",
+      "name":"Chulbul Yadav",
+      "address":"Motihari",
+      "age":27
+   },
+   {
+      "id":"3",
+      "name":"Mirchae Devi",
+      "address":"Buxcer",
+      "age":26
+   },
+   {
+      "id":"4",
+      "name":"Deepak Jha",
+      "address":"Mithila",
+      "age":33
+   },
+   {
+      "id":"5",
+      "name":"Shilpa Rani",
+      "address":"Nala Road",
+      "age":36
+   }
+]
